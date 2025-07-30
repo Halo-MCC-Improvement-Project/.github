@@ -13,3 +13,5 @@ The objective of this server is to bring a team together to help preserve these 
 Your welcome to join the team if you think you can help contribute to this project, hopefully good things will come out of this.
 
 Of course there is a risk this project could be terminated due to the EULA but I feel like halo studios has abandoned this game to the point that they wont care anymore.
+
+[Our Discord](http://discord.gg/Nw8Kqfmehu)
